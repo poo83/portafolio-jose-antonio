@@ -1,0 +1,27 @@
+PORTAFOLIO WEB DE JOSÉ ANTONIO
+================================
+
+ARCHIVOS
+- index.html: estructura, secciones y metadatos.
+- styles.css: diseño, colores y adaptación a móviles.
+- script.js: menú móvil, carrusel y formulario.
+- favicon.svg: ícono con las iniciales JA.
+
+CÓMO ABRIR
+1. Descomprime la carpeta.
+2. Abre index.html con doble clic. Puedes usar Chrome, Firefox o Edge.
+3. Para editar el contenido, abre la carpeta en Visual Studio Code y modifica los archivos.
+
+ANTES DE PUBLICAR, PERSONALIZA
+1. En index.html, reemplaza la cronología ficticia por tu experiencia y formación reales.
+2. Reemplaza los proyectos y artículos de ejemplo por trabajos propios o indica claramente que son propuestas.
+3. En la sección de testimonios, coloca opiniones reales con permiso o elimina la sección.
+4. En script.js, cambia correoDestino por tu correo real.
+5. En index.html, cambia los enlaces principales de LinkedIn, GitHub e Instagram por tus perfiles reales.
+6. Si tienes una foto, guarda una imagen llamada foto.jpg en esta carpeta y sigue el comentario dentro de index.html para reemplazar el avatar JA.
+7. Revisa todos los datos personales antes de publicar.
+
+NOTAS
+- El formulario utiliza mailto: y abre la aplicación de correo del visitante; no guarda ni envía datos por un servidor.
+- Google Fonts, Bootstrap Icons y las fuentes externas necesitan conexión a internet.
+- La experiencia, los proyectos y los artículos son ejemplos ilustrativos, no afirmaciones de experiencia real.
